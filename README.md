@@ -1,2 +1,2 @@
 # gitforgeeks
-Git HUb Practice session 
+Git HUb Practice session
